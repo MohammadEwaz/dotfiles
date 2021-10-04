@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mohammad.ewaz@sciencespo.fr
+	name = mohammad.ewaz@sciencespo.fr
